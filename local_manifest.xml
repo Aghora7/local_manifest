@@ -11,7 +11,7 @@
   <!-- Kernels -->
    <project path="kernel/xiaomi/sdm845" name="XDKernel" remote="me" revision="snowcone"  clone-depth="1" />
   <!-- Device Trees -->
-   <project path="device/xiaomi/beryllium" name="device_xiaomi_beryllium" remote="mme" revision="twelve"/>
+   <project path="device/xiaomi/beryllium" name="device_xiaomi_beryllium" remote="me" revision="twelve"/>
    <project path="device/xiaomi/sdm845-common" name="xiaomi_sdm845-common" remote="mme" revision="aosp-12"/>
   <!-- Vendor Trees -->
    <project path="vendor/xiaomi" name="vendor_xiaomi" remote="me" revision="aosp-12"/>
